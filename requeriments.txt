@@ -1,0 +1,14 @@
+streamlit
+
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
+matplotlib
+seaborn
+sklearn
+tensorflow
+tensorflow.keras.models
+tensorflow.keras.layers
+tensorflow.keras.callbacks
